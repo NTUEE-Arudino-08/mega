@@ -17,7 +17,7 @@ Please do this everytime before edit any file.
 ```
 git status
 ```
-Very useful check your local changes.
+Very useful to check your local changes.
 
 ## Before pushing to remote(Github)
 
